@@ -1,0 +1,20 @@
+{
+    "name": "lucidity/module-example",
+    "description": "Example of Lucidity module",
+    "type": "lucidity-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tristan Kenney",
+            "email": "tristan@kenney.co"
+        }
+    ],
+
+    "require": {
+        "lucidity/lucidity-composer-installer": "dev-master",
+        "twig/twig": "^1.31",
+        "laravel/framework": "^5.4",
+        "league/fractal": "^0.15.0"
+    },
+    "minimum-stability": "dev"
+}
