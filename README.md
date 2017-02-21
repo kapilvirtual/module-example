@@ -1,4 +1,4 @@
-## Lucidity Example Module (Intial Update)
+## Lucidity Example Module (Initial Update)
 Example layout of a lucidity module that can be installed into the main 'web' application
 
 
