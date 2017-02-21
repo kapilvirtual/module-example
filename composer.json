@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "lucidity/lucidity-composer-installer": "1.0.0",
+        "luciditysoftware/lucidity-composer-installer": "1.0.0",
         "twig/twig": "^1.31",
         "laravel/framework": "^5.4",
         "league/fractal": "^0.15.0"
