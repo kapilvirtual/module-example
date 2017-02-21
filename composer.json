@@ -1,5 +1,5 @@
 {
-    "name": "lucidity/module-example",
+    "name": "luciditysoftware/module-example",
     "description": "Example of Lucidity module",
     "type": "lucidity-module",
     "license": "MIT",
